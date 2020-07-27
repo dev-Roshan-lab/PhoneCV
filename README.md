@@ -12,7 +12,7 @@ An Attempt to use Python's Super cool Library OpenCV-Python with a Phone's camer
 - run _"url video reciever.py"_
 
 ## How to set up the project for your own use
->- Download[https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_IN] IP Webcam
+>- [Download](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_IN) IP Webcam
 >- Just Run the _"url video reciever.py"_ program
 >- Make Sure All Cascade file is in the same Folder
 
