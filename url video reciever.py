@@ -1,7 +1,7 @@
 import cv2
 import numpy
 
-url = 'http://192.168.43.1:8080/video'
+url = 'http://192.XXX.XX.X:8080/video'
 cap = cv2.VideoCapture(url)
 face = cv2.CascadeClassifier('cascade.xml')
 while(True):
